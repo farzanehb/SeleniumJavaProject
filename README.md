@@ -1,1 +1,1 @@
-# SeleniumSampleProject
+# SeleniumJavaProject
